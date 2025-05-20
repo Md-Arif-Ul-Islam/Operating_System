@@ -3,9 +3,9 @@
 
 int main() {
     // ✅ Correct: must end with .json
-    const char *firebase_url = "https://first-477e6-default-rtdb.firebaseio.com/students.json";
+    const char *firebase_url = ".............................................................................";
 
-    const char *student_data = "{\"name\": \"John Doe\", \"age\": 21}";
+    const char *student_data = "{\"age\": 24, \"Course\": \"Computer Science\",\"name\": \"Farhan\"}";
 
     char command[1024];
     snprintf(command, sizeof(command),

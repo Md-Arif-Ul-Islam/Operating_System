@@ -42,7 +42,7 @@ int main() {
 
     if (curl) {
         // 🌐 Replace this with your actual Firebase Realtime Database URL + .json
-        const char *url = "............................................................";
+        const char *url = "............................................................................";
 
         curl_easy_setopt(curl, CURLOPT_URL, url);
         curl_easy_setopt(curl, CURLOPT_WRITEFUNCTION, WriteMemoryCallback);
