@@ -1,0 +1,34 @@
+{
+  "students": {
+    "1": {
+      "name": "John Doe",
+      "age": 21,
+      "course": "Computer Science"
+    },
+    "2": {
+      "name": "Jane Smith",
+      "age": 22,
+      "course": "Electrical Engineering"
+    },
+    "3": {
+      "name": "Alice Brown",
+      "age": 23,
+      "course": "Mechanical Engineering"
+    },
+    "4": {
+      "name": "Mukaddim",
+      "age": 21,
+      "course": "N/A"
+    },
+    "5": {
+      "name": "Zafor",
+      "age": 24,
+      "course": "Computer Science"
+    },
+    "6": {
+      "name": "Farhan",
+      "age": 24,
+      "course": "Computer Science"
+    }
+  }
+}
